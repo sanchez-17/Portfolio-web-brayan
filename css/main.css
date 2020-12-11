@@ -87,7 +87,7 @@ header::after{
   }
 
   .comments__img{
-      --tamano: 80px;
+      --tamano: 150px;
       width: var(--tamano);
       height: var(--tamano);
       border-radius: 50%;
