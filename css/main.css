@@ -75,8 +75,13 @@ header::after{
 
 .cardbg{
     background:  url(../img/bg/footer-texture-top.jpg) no-repeat fixed center;
+    opacity: 0.3;
 
   }
+
+.non-filter{
+    opacity: 1;
+}
 
   /* Comments */
 
