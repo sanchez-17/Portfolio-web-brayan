@@ -104,3 +104,14 @@ header::after{
   .transform-turn{
       transform: rotate(.5turn);
   }
+
+  /* Media queries */
+
+
+  @media screen and (max-width: 375px){
+    
+    .vh-50{
+        height: 70vmax;
+    }
+
+  }
